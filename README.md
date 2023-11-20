@@ -26,3 +26,6 @@ Monitor training loss using TensorBoard.
 
 ### Multi-Step (Predict new cases after 30 days)
 <img width="334" alt="multi_step_pred" src="https://github.com/zulhilmeae170033/Covid19-Case-Predict/assets/65061987/209bdc97-c02c-42c3-a0b2-eea356bb6d75">
+
+## Credit/cite the source of the data 
+GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
